@@ -9,4 +9,10 @@ Install local:
 
 Run via url global
 link app:
-https://caloriemate.streamlit.app/
+https://caloriemate2.streamlit.app
+
+
+Cara penggunaan
+1. User masukan gambar buah atau sayur
+2. tekan predict
+3. memberikan hasil predict, nutrition facts, dan rekomendasi olahraga
